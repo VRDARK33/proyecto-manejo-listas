@@ -1,0 +1,2 @@
+123,0,colombia,usa,123W,camilo,12:23,23/12/2000
+12333,1,espa¤a,rusia,123ff,van,1244,4121
